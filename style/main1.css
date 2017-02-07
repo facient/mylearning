@@ -1,0 +1,19 @@
+
+#alpha{
+
+	background: #111;
+	width:10%;
+	clear:both;
+	text-decoration: underline;
+	color:black;
+	font-weight: bold;
+}
+#alpha:hover{
+ background: #ccc;
+ border-radius: 6px;
+ text-decoration: none;
+ color:red;
+ font-weight: bold;
+ box-shadow: 10px black;
+
+}
