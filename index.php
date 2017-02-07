@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 	<head>
-		<title>CSS LAYOUT</title>
+		<title>CSS</title>
 		<link href="style/main.css" rel="stylesheet"/>
 		<link href="boot/css/bootstrap.min.css" rel="stylesheet"/>
 		<link href="boot/css/bootstrap-theme.min.css" rel="stylesheet"/>
